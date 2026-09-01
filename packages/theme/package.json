@@ -55,7 +55,7 @@
   },
   "devDependencies": {
     "@tailwindcss/cli": "^4.3.0",
-    "tailwindcss": "^4.3.0",
-    "vitest": "^4.1.10"
+    "tailwindcss": "^4.3.3",
+    "vitest": "^4.1.11"
   }
 }
