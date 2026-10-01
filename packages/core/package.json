@@ -49,12 +49,12 @@
   },
   "dependencies": {
     "clsx": "^2.1.1",
-    "tailwind-merge": "^3.6.0"
+    "tailwind-merge": "^3.7.0"
   },
   "devDependencies": {
     "@repo/typescript-config": "workspace:*",
     "@typescript/native-preview": "7.0.0-dev.20260707.2",
-    "typescript": "5.9.2",
-    "vitest": "^4.1.10"
+    "typescript": "5.9.3",
+    "vitest": "^4.1.11"
   }
 }
